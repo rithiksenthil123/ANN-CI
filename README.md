@@ -1,5 +1,3 @@
-Sure! Here's a draft for your project's README file:
-
 # Artificial Neural Network Project
 
 This project is a simple implementation of an artificial neural network using Python, Jupyter Notebook, Numpy, Pandas, and Matplotlib. It was developed by Rithik Appachi Senthilkumar and teammates Kaushik Karthikeyan, Lenka Hake, and Olaf Heijl. The project aims to showcase the basic concepts and functionality of artificial neural networks.
